@@ -1,8 +1,10 @@
 # NGOs Donation Project, API REST Developer in PHP, Object Oriented Programming.
 
-# Import ngo.sql to MySQL Database
-
-# Upload the api folder to your web server directory (ex.: /var/www/html).
+<br>
+Import ngo.sql to MySQL Database
+<br>
+Upload the api folder to your web server directory (ex.: /var/www/html).
+<br>
 
 # DONATION AND NGO REST API ENDPOINTS
 
